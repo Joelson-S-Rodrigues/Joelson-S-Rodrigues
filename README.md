@@ -20,5 +20,5 @@
 </div><br/>
 
 Estou em busca do primeiro emprego como Dev. <br/>
-trabalho atualmente como free-lancer <br/>
+trabalho atualmente como Desenvolvedor de Software <br/>
                                              Contato: (11)997421193 ;
