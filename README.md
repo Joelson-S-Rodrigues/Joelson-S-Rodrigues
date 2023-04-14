@@ -25,6 +25,5 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=dracula)](https://www.linkedin.com/in/joelson-rodrigues-896004227/)
 
 Em busca de novos desafios <br/>
-trabalho atualmente como Desenvolvedor de App com React-Native <br/>
-Contato: (11)950808441 ;
+Contato: (11)997421193 ;
 
